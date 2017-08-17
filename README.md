@@ -1,3 +1,5 @@
+This fork adds callback to Vanilla version
+
 # TrueTime for Android
 
 ![TrueTime](truetime.png "TrueTime for Android")
